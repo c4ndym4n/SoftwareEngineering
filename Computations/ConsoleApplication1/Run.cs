@@ -32,6 +32,8 @@ namespace ConsoleApplication1
 
         }
 
+
+
         public void doStrategy()
         {
             Context context;
